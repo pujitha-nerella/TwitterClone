@@ -1,1 +1,1 @@
-
+I am Pujitha Nerella, currently pursuing my third year of B.Tech at Vignan's University. I have developed a Twitter clone project as part of my Web Technologies coursework, utilizing front-end and back-end technologies such as HTML, CSS, and PHP.
